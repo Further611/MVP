@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toolbar -->
+    <dimen name="toolbar_title_textsize">17sp</dimen>
+
+    <!-- Layout margin -->
+    <dimen name="margin_left">16dp</dimen>
+    <dimen name="margin_right">16dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+    <dimen name="margin_top40">40dp</dimen>
+
+    <!--Big button -->
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="marginLeft">16dp</dimen>
+    <dimen name="marginRight">16dp</dimen>
+    <dimen name="textSizeButton">17sp</dimen>
+    <dimen name="buttonBigCornerRadius">12dp</dimen>
+</resources>

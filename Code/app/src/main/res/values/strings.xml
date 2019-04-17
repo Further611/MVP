@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+
+    <string name="a_1_login_toolbar_title">Login</string>
+    <string name="a_1_username">Username:</string>
+    <string name="a_1_password">Password:</string>
+    <string name="a_1_button_login">Login</string>
+</resources>
